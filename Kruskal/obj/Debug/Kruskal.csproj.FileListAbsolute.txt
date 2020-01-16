@@ -1,0 +1,6 @@
+D:\Level 3\S1\Algorithm\Project\Kruskal\bin\Debug\Kruskal.exe.config
+D:\Level 3\S1\Algorithm\Project\Kruskal\bin\Debug\Kruskal.exe
+D:\Level 3\S1\Algorithm\Project\Kruskal\bin\Debug\Kruskal.pdb
+D:\Level 3\S1\Algorithm\Project\Kruskal\obj\Debug\Kruskal.exe
+D:\Level 3\S1\Algorithm\Project\Kruskal\obj\Debug\Kruskal.pdb
+D:\Level 3\S1\Algorithm\Project\Kruskal\obj\Debug\Kruskal.csprojResolveAssemblyReference.cache

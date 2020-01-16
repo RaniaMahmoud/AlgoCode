@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeapSortDemo", "HeapSortDemo\HeapSortDemo.csproj", "{D30A4B4D-D01D-422F-80B6-76B392C004B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prim", "Prim\Prim.csproj", "{1F2F838C-E64D-4D86-B296-F366E8369EB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kruskal", "Kruskal\Kruskal.csproj", "{B533DCAC-8420-4CA0-AAA7-425EC34D6350}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dijkstra", "Dijkstra\Dijkstra.csproj", "{E180FEF1-DF25-4303-9020-2ED1ECBB0C64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D30A4B4D-D01D-422F-80B6-76B392C004B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D30A4B4D-D01D-422F-80B6-76B392C004B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D30A4B4D-D01D-422F-80B6-76B392C004B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D30A4B4D-D01D-422F-80B6-76B392C004B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F2F838C-E64D-4D86-B296-F366E8369EB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F2F838C-E64D-4D86-B296-F366E8369EB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F2F838C-E64D-4D86-B296-F366E8369EB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F2F838C-E64D-4D86-B296-F366E8369EB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B533DCAC-8420-4CA0-AAA7-425EC34D6350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B533DCAC-8420-4CA0-AAA7-425EC34D6350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B533DCAC-8420-4CA0-AAA7-425EC34D6350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B533DCAC-8420-4CA0-AAA7-425EC34D6350}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E180FEF1-DF25-4303-9020-2ED1ECBB0C64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E180FEF1-DF25-4303-9020-2ED1ECBB0C64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E180FEF1-DF25-4303-9020-2ED1ECBB0C64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E180FEF1-DF25-4303-9020-2ED1ECBB0C64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

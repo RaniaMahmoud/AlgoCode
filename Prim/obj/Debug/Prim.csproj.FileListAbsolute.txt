@@ -1,0 +1,5 @@
+D:\Level 3\S1\Algorithm\Project\Prim\bin\Debug\Prim.exe.config
+D:\Level 3\S1\Algorithm\Project\Prim\bin\Debug\Prim.exe
+D:\Level 3\S1\Algorithm\Project\Prim\bin\Debug\Prim.pdb
+D:\Level 3\S1\Algorithm\Project\Prim\obj\Debug\Prim.exe
+D:\Level 3\S1\Algorithm\Project\Prim\obj\Debug\Prim.pdb
